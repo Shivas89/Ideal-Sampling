@@ -9,8 +9,8 @@ Attach the program
 # Output Waveform
 ```
 IDEAL SAMPLING
-<img width="866" height="439" alt="image" src="https://github.com/user-attachments/assets/ebcf9a04-52c4-4072-9b08-89624939185c" />
 ```
+<img width="866" height="439" alt="image" src="https://github.com/user-attachments/assets/ebcf9a04-52c4-4072-9b08-89624939185c" />
 # Results
 ```
 Attach the output waveform
