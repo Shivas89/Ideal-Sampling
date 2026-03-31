@@ -8,7 +8,8 @@ Attach the program
 ```
 # Output Waveform
 ```
-Attach the output waveform
+IDEAL SAMPLING
+<img width="866" height="439" alt="image" src="https://github.com/user-attachments/assets/ebcf9a04-52c4-4072-9b08-89624939185c" />
 ```
 # Results
 ```
