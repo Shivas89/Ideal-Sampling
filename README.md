@@ -10,7 +10,8 @@ Attach the program
 ```
 IDEAL SAMPLING
 ```
-<img width="866" height="439" alt="image" src="https://github.com/user-attachments/assets/ebcf9a04-52c4-4072-9b08-89624939185c" />
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/21beef9b-6404-4813-b78f-b3fd5c28f7c5" />
+
 # Results
 ```
 Attach the output waveform
