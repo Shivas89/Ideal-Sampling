@@ -179,20 +179,17 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-
-# IDEAL SAMPLING
-<img width="815" height="1158" alt="image" src="https://github.com/user-attachments/assets/3d48530f-1195-4ed2-b3fb-b3ccb012c054" />
-
+### Ideal samplying
+<img width="990" height="590" alt="image" src="https://github.com/user-attachments/assets/e48bb18f-8d0d-43e5-be6e-63f60f540f90" />
 
 
+### Natural samplying
+<img width="989" height="790" alt="image" src="https://github.com/user-attachments/assets/6129082d-1e1d-4cab-84ab-ec9aa4cec1bf" />
 
-# NATURAL SAMPLING
-<img width="1390" height="985" alt="image" src="https://github.com/user-attachments/assets/cdfaf68f-3cbf-412e-aa76-c22098e32075" />
 
+### Flat-top samplying
+<img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/64d0928f-b046-404e-ac81-297d09d0cb06" />
 
-# FLAT-TOP SAMPLING
-
-<img width="1398" height="985" alt="image" src="https://github.com/user-attachments/assets/6e9679d9-2a2d-47af-8f21-a73d05937142" />
 
 
 
